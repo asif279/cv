@@ -7,8 +7,8 @@
 body{
     margin: 0px;
     padding: 0px;
-    background: linear-gradient(178deg, #482feb, #9824ff);
-    height: 150vh;
+    background: linear-gradient( white);
+   
 }
 .clearfix{clear: both;}
 .resume-box{
@@ -24,6 +24,11 @@ body{
     float: left;
     height: 1000px;
     padding-right: 39px;
+}
+.abc{
+  font-size: 25px;
+  font-weight: 700;
+  color: gray;
 }
 .box-2{
     width: 60%;
@@ -131,24 +136,29 @@ ul li:before{
     font-weight: 600;
     text-transform: uppercase;
     font-family: arial;
-    font-size: 25px;
+    font-size: 22px;
     letter-spacing: 3px;
 }
 .para-1{
-    font-size: 14px;
+    font-size: 20px;
     text-transform: uppercase;
-    color: black;
+    color: orangered;
     font-weight: 400;
     margin: 5px 0px;
     margin-top: 10px;
 }
+.uni{
+  font-size: 18px;
+  font-weight: 700;
+}
 .para-2{
     font-size: 14px;
     text-transform: capitalize;
-    color: var(--second-color);
+   color: black;
     font-weight: 400;
     margin-bottom: 20px;
     margin-top: 0px;
+    font-weight: 800;
 }
 .ab{
   text-decoration: none;
