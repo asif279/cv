@@ -30,6 +30,12 @@ body{
   font-weight: 700;
   color: gray;
 }
+.skillss{
+  text-transform: uppercase;
+  color: black;
+  font-weight: bold;
+
+}
 .box-2{
     width: 60%;
     float: left;
